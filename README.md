@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any front-end web designing projects
 - 📫 Reach me on:  abdqudusholayincar@gmail.com
+                    +2348082107213
       Thank you.             
 <!---
 holayincar90pt/holayincar90pt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
