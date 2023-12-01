@@ -3,7 +3,7 @@
 - ✨ I work with HTML, CSS, JavaScript and React.js to build responsive Webpage and Webapps
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any front-end web designing projects
-- 📫 Reach me on:  abdqudusholayincar@gmail.com
+- 📫 Reach me on:  abdqudusholayincar@gmail.com,
                     +2348082107213
       Thank you.             
 <!---
